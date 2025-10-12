@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debug on Blog Lập Trình Mạng của Trần Trung Dũng</title>
+    <link>//localhost:1313/tags/debug/</link>
+    <description>Recent content in Debug on Blog Lập Trình Mạng của Trần Trung Dũng</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 11 Oct 2025 15:20:00 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/debug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các công cụ kiểm tra mạng &amp; debug</title>
+      <link>//localhost:1313/posts/cong-cu-kiem-tra-mang/</link>
+      <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/cong-cu-kiem-tra-mang/</guid>
+      <description>Giới thiệu các công cụ như Ping, Traceroute, Wireshark, Postman để kiểm tra và debug mạng.</description>
+    </item>
+  </channel>
+</rss>

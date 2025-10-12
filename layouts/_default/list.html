@@ -1,0 +1,41 @@
+{{ define "main" }}
+<h1 style="text-align:center; margin-bottom:30px;">{{ .Title }}</h1>
+
+<div class="posts-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 25px;">
+  {{ range .Pages }}
+  <div class="post-card" style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; transition: transform 0.2s, box-shadow 0.2s;">
+    <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">
+      {{ if .Params.image }}
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 220px; object-fit: cover;">
+      {{ end }}
+      <div style="padding: 20px;">
+        <h3>{{ .Title }}</h3>
+        {{ if .Params.summary }}
+        <p>{{ .Params.summary }}</p>
+        {{ end }}
+      </div>
+    </a>
+  </div>
+  {{ end }}
+</div>
+
+<!-- Hover effect -->
+<style>
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+</style>
+
+<!-- Pagination -->
+<div style="margin-top: 40px; text-align: center;">
+  {{ if .Paginator.HasPrev }}
+  <a href="{{ .Paginator.Prev.URL }}">← Trang trước</a>
+  {{ end }}
+
+  {{ if .Paginator.HasNext }}
+  <a href="{{ .Paginator.Next.URL }}" style="margin-left:20px;">Trang sau →</a>
+  {{ end }}
+</div>
+
+{{ end }}

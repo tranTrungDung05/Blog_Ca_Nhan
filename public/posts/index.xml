@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog Lập Trình Mạng của Trần Trung Dũng</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blog Lập Trình Mạng của Trần Trung Dũng</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 11 Oct 2025 16:20:00 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event Loop &amp; Async trong Node.js</title>
+      <link>//localhost:1313/posts/nodejs-event-loop/</link>
+      <pubDate>Sat, 11 Oct 2025 16:20:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/nodejs-event-loop/</guid>
+      <description>Giải thích cơ chế Event Loop trong Node.js, luồng bất đồng bộ và non-blocking I/O.</description>
+    </item>
+    <item>
+      <title>Header &amp; Cookie trong HTTP</title>
+      <link>//localhost:1313/posts/http-header-cookie/</link>
+      <pubDate>Sat, 11 Oct 2025 16:10:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/http-header-cookie/</guid>
+      <description>Giải thích chức năng của header và cookie, cách sử dụng trong giao tiếp Client-Server.</description>
+    </item>
+    <item>
+      <title>WebSocket vs HTTP</title>
+      <link>//localhost:1313/posts/websocket-vs-http/</link>
+      <pubDate>Sat, 11 Oct 2025 16:00:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/websocket-vs-http/</guid>
+      <description>So sánh WebSocket và HTTP, ưu điểm, nhược điểm và khi nào nên dùng.</description>
+    </item>
+    <item>
+      <title>Async/Await &amp; Promise trong JavaScript</title>
+      <link>//localhost:1313/posts/js-async-await/</link>
+      <pubDate>Sat, 11 Oct 2025 15:50:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/js-async-await/</guid>
+      <description>Hướng dẫn cơ bản về async/await, Promise và luồng bất đồng bộ trong JS.</description>
+    </item>
+    <item>
+      <title>Thế nào là REST API &amp; JSON</title>
+      <link>//localhost:1313/posts/rest-api-json/</link>
+      <pubDate>Sat, 11 Oct 2025 15:40:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/rest-api-json/</guid>
+      <description>Giải thích REST API, JSON và cách fetch dữ liệu từ server.</description>
+    </item>
+    <item>
+      <title>Cơ chế HTTP Request &amp; Response</title>
+      <link>//localhost:1313/posts/http-request-response/</link>
+      <pubDate>Sat, 11 Oct 2025 15:30:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/http-request-response/</guid>
+      <description>Giải thích cơ chế GET, POST, các header và status code trong HTTP.</description>
+    </item>
+    <item>
+      <title>Các công cụ kiểm tra mạng và debug</title>
+      <link>//localhost:1313/posts/cong-cu-kiem-tra-mang/</link>
+      <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/cong-cu-kiem-tra-mang/</guid>
+      <description>Giới thiệu các công cụ như Ping, Traceroute, Wireshark, Postman để kiểm tra và debug mạng.</description>
+    </item>
+    <item>
+      <title>Các bước thiết lập Server &amp; Client cơ bản</title>
+      <link>//localhost:1313/posts/server-client-co-ban/</link>
+      <pubDate>Sat, 11 Oct 2025 15:10:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/server-client-co-ban/</guid>
+      <description>Hướng dẫn thiết lập server và client đơn giản, giao tiếp cơ bản trong mạng.</description>
+    </item>
+    <item>
+      <title>Các loại giao thức mạng phổ biến</title>
+      <link>//localhost:1313/posts/giao-thuc-mang/</link>
+      <pubDate>Sat, 11 Oct 2025 15:00:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/giao-thuc-mang/</guid>
+      <description>Tìm hiểu các giao thức mạng phổ biến như HTTP, HTTPS, FTP, TCP/IP và UDP.</description>
+    </item>
+  </channel>
+</rss>
