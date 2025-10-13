@@ -6,8 +6,15 @@
     <description>Recent content in Web on Blog Lập Trình Mạng của Trần Trung Dũng</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 11 Oct 2025 15:30:00 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 15:40:00 +0700</lastBuildDate>
     <atom:link href="//localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thế nào là REST API &amp; JSON</title>
+      <link>//localhost:1313/posts/rest-api-json/</link>
+      <pubDate>Sat, 11 Oct 2025 15:40:00 +0700</pubDate>
+      <guid>//localhost:1313/posts/rest-api-json/</guid>
+      <description>Giải thích REST API, JSON và cách fetch dữ liệu từ server.</description>
+    </item>
     <item>
       <title>Cơ chế HTTP Request &amp; Response</title>
       <link>//localhost:1313/posts/http-request-response/</link>

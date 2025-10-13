@@ -2,52 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/nodejs-event-loop/</loc>
-    <lastmod>2025-10-12T14:53:50+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-10-12T14:53:50+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/cong-cu-kiem-tra-mang/</loc>
-    <lastmod>2025-10-12T14:53:49+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/http-header-cookie/</loc>
-    <lastmod>2025-10-12T14:53:49+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/http-request-response/</loc>
-    <lastmod>2025-10-12T14:53:49+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/js-async-await/</loc>
-    <lastmod>2025-10-12T14:53:49+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/rest-api-json/</loc>
-    <lastmod>2025-10-12T14:53:49+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/server-client-co-ban/</loc>
-    <lastmod>2025-10-12T14:53:49+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/websocket-vs-http/</loc>
-    <lastmod>2025-10-12T14:53:49+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/giao-thuc-mang/</loc>
-    <lastmod>2025-10-11T15:00:00+07:00</lastmod>
+    <loc>//localhost:1313/tags/async/</loc>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-10-11T15:00:00+07:00</lastmod>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/java/</loc>
-    <lastmod>2025-10-11T15:00:00+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/java--m%E1%BA%A1ng/</loc>
-    <lastmod>2025-10-11T15:00:00+07:00</lastmod>
+    <loc>//localhost:1313/posts/nodejs-event-loop/</loc>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/javascript/</loc>
-    <lastmod>2025-10-11T15:00:00+07:00</lastmod>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/networking/</loc>
-    <lastmod>2025-10-11T15:00:00+07:00</lastmod>
+    <loc>//localhost:1313/categories/javascript--m%E1%BA%A1ng/</loc>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/node.js/</loc>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-10-11T16:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cookie/</loc>
+    <lastmod>2025-10-11T16:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/header/</loc>
+    <lastmod>2025-10-11T16:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/http-header-cookie/</loc>
+    <lastmod>2025-10-11T16:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/http/</loc>
+    <lastmod>2025-10-11T16:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/java--m%E1%BA%A1ng/</loc>
+    <lastmod>2025-10-11T16:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/networking/</loc>
+    <lastmod>2025-10-11T16:00:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/websocket/</loc>
+    <lastmod>2025-10-11T16:00:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/websocket-vs-http/</loc>
+    <lastmod>2025-10-11T16:00:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/js-async-await/</loc>
+    <lastmod>2025-10-11T15:50:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/programming/</loc>
+    <lastmod>2025-10-11T15:50:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/json/</loc>
+    <lastmod>2025-10-11T15:40:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/rest-api/</loc>
+    <lastmod>2025-10-11T15:40:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/rest-api-json/</loc>
+    <lastmod>2025-10-11T15:40:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/web/</loc>
+    <lastmod>2025-10-11T15:40:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/http-request-response/</loc>
+    <lastmod>2025-10-11T15:30:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/api/</loc>
+    <lastmod>2025-10-11T15:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/cong-cu-kiem-tra-mang/</loc>
+    <lastmod>2025-10-11T15:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/c%C3%B4ng-ngh%E1%BB%87--m%E1%BA%A1ng/</loc>
+    <lastmod>2025-10-11T15:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/debug/</loc>
+    <lastmod>2025-10-11T15:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/tools/</loc>
+    <lastmod>2025-10-11T15:20:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/server-client-co-ban/</loc>
+    <lastmod>2025-10-11T15:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/java/</loc>
+    <lastmod>2025-10-11T15:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/server/</loc>
+    <lastmod>2025-10-11T15:10:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/giao-thuc-mang/</loc>
     <lastmod>2025-10-11T15:00:00+07:00</lastmod>
   </url><url>
     <loc>//localhost:1313/contentabout/</loc>

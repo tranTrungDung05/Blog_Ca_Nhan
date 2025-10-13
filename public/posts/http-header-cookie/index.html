@@ -1,24 +1,28 @@
 <!DOCTYPE html>
 <html lang="vi">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
     <title>Header &amp; Cookie trong HTTP | Blog Lập Trình Mạng của Trần Trung Dũng</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="Giải thích chức năng của header và cookie, cách sử dụng trong giao tiếp Client-Server.">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap&subset=vietnamese" rel="stylesheet">
+
     
-<link rel="stylesheet" href="/css/custom.min.7adf79f34c56b5062c35c5e5b5c537b6f6c232755dd01c35338e189fe7d96b70.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap&subset=vietnamese" rel="stylesheet">
+
+    
+    <link rel="stylesheet" href="/css/custom.css">
+    <meta name="generator" content="Hugo 0.151.0">
+
 
     <meta name="generator" content="Hugo 0.151.0">
+
     
     
     
       <meta name="robots" content="noindex, nofollow">
     
+
     <meta name="author" content="Trần Trung Dũng">
     
 
@@ -40,8 +44,6 @@
 
     
       <link rel="canonical" href="//localhost:1313/posts/http-header-cookie/">
-    
-
     <meta property="og:url" content="//localhost:1313/posts/http-header-cookie/">
   <meta property="og:site_name" content="Blog Lập Trình Mạng của Trần Trung Dũng">
   <meta property="og:title" content="Header & Cookie trong HTTP">
@@ -59,65 +61,77 @@
   <meta itemprop="description" content="Giải thích chức năng của header và cookie, cách sử dụng trong giao tiếp Client-Server.">
   <meta itemprop="datePublished" content="2025-10-11T16:10:00+07:00">
   <meta itemprop="dateModified" content="2025-10-11T16:10:00+07:00">
-  <meta itemprop="wordCount" content="23">
+  <meta itemprop="wordCount" content="685">
   <meta itemprop="keywords" content="HTTP,Cookie,Header">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Header & Cookie trong HTTP">
   <meta name="twitter:description" content="Giải thích chức năng của header và cookie, cách sử dụng trong giao tiếp Client-Server.">
 
-	
-  </head><body class="ma0 avenir bg-near-white development">
 
+    
+  </head><body class="ma0 avenir bg-near-white development">
+    
+    
     
    
   
 
   <header>
     <div class="bg-black">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l center items-center justify-between">
-    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
-      
-        Blog Lập Trình Mạng của Trần Trung Dũng
-      
-    </a>
-    <div class="flex-l items-center">
-      
+      <header class="header-bg">
+  <nav class="pv3 ph3 ph4-ns">
+    <div class="flex-l center items-center justify-between">
+      <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+        
+          Blog Lập Trình Mạng của Trần Trung Dũng
+        
+      </a>
+      <div class="flex-l items-center">
+        
 
-      
-        <ul class="pl0 mr3">
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/" title="Trang Chủ page">
-              Trang Chủ
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/posts/" title="Blog page">
-              Blog
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/contentabout/" title="Profile Cá Nhân page">
-              Profile Cá Nhân
-            </a>
-          </li>
-          
-        </ul>
-      
-      <div class="ananke-socials"></div>
+        
+          <ul class="pl0 mr3">
+            
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a class="hover-white white-90 no-underline" href="/" title="Trang Chủ page">
+                Trang Chủ
+              </a>
+            </li>
+            
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a class="hover-white white-90 no-underline" href="/posts/" title="Blog page">
+                Blog
+              </a>
+            </li>
+            
+            <li class="list f5 f4-ns fw4 dib pr3">
+              <a class="hover-white white-90 no-underline" href="/contentabout/" title="Profile Cá Nhân page">
+                Profile Cá Nhân
+              </a>
+            </li>
+            
+          </ul>
+        
+        <div class="ananke-socials"></div>
 
+      </div>
     </div>
+  </nav>
+
+  <div class="title-container tc-l pv4 ph3">
+    <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+      Header &amp; Cookie trong HTTP
+    </h1>
   </div>
-</nav>
+</header>
 
     </div>
   </header>
 
 
 
+
+    
     <main class="pb7" role="main">
       
   
@@ -128,7 +142,7 @@
           
         Posts
       </aside><div id="sharing" class="mt3 ananke-socials"></div>
-<h1 class="f1 athelas mt3 mb1">Header &amp; Cookie trong HTTP</h1>
+
       
       <p class="tracked"><strong>Trần Trung Dũng</strong>
       </p>
@@ -142,6 +156,58 @@
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Bài viết hướng dẫn cách đọc và sử dụng HTTP header, cookie để lưu trữ thông tin, xác thực và quản lý phiên.</p>
+<h1 id="header-và-cookie-chức-năng-và-vai-trò-trong-giao-tiếp-client-server">Header và Cookie: Chức năng và Vai trò trong Giao tiếp Client-Server</h1>
+<p>Giao tiếp trên nền tảng Web chủ yếu dựa trên giao thức <strong>HTTP</strong>: hoạt động theo mô hình <strong>Client-Server</strong>. Để cuộc hội thoại này diễn ra hiệu quả, hai thành phần không thể thiếu là <strong>HTTP Header</strong> và <strong>Cookie</strong>. Bài viết này sẽ giải thích chi tiết chức năng và vai trò của chúng trong luồng truyền tải dữ liệu.</p>
+<hr>
+<h2 id="1-http-header-người-dẫn-đường-của-gói-tin">1. HTTP Header: Người Dẫn Đường Của Gói Tin</h2>
+<p><strong>HTTP Header</strong>: là các dòng văn bản chứa siêu dữ liệu (metadata) về yêu cầu (Request) hoặc phản hồi (Response) HTTP. Chúng được đính kèm ở đầu mỗi thông điệp HTTP, trước phần nội dung chính (body).</p>
+<h3 id="chức-năng-và-vai-trò">Chức năng và Vai trò</h3>
+<p><strong>Header</strong>: không chứa dữ liệu mà người dùng cần (ví dụ: nội dung trang web), mà cung cấp thông tin cần thiết để Client và Server hiểu cách xử lý dữ liệu đó.</p>
+<h3 id="phân-loại-và-ví-dụ">Phân loại và Ví dụ</h3>
+<h4 id="request-header-từ-client-gửi-đến-server"><strong>Request Header</strong> (Từ Client gửi đến Server)</h4>
+<p>Đây là thông tin mà <strong>Client</strong> cung cấp để giúp <strong>Server</strong> xử lý yêu cầu.</p>
+<ul>
+<li><strong>Host</strong>: Xác định tên miền của Server mà Client muốn kết nối. Ví dụ: <code>Host: example.com</code>.</li>
+<li><strong>User-Agent</strong>: Mô tả trình duyệt, hệ điều hành hoặc ứng dụng tạo ra yêu cầu. <strong>Server</strong> dùng nó để tối ưu hóa nội dung.</li>
+<li><strong>Accept-Language</strong>: Cho biết ngôn ngữ mà Client ưu tiên hiển thị.</li>
+<li><strong>Authorization</strong>: Chứa thông tin xác thực (ví dụ: Token), dùng để cấp quyền truy cập vào tài nguyên bảo mật.</li>
+</ul>
+<h4 id="response-header-từ-server-gửi-lại-client"><strong>Response Header</strong> (Từ <strong>Server</strong> gửi lại <strong>Client</strong>)</h4>
+<p>Đây là thông tin mà Server cung cấp để giúp Client hiểu và xử lý phản hồi.</p>
+<ul>
+<li><strong>Content-Type</strong>: Cho biết định dạng của nội dung trong phần body. Ví dụ: <code>Content-Type: application/json</code> hoặc <code>text/html</code>.</li>
+<li><strong>Content-Length</strong>: Kích thước của phần body tính bằng byte.</li>
+<li><strong>Server</strong>: Thông tin về phần mềm Server đang phục vụ yêu cầu.</li>
+<li><strong>Set-Cookie</strong>: Chỉ thị quan trọng nhất, dùng để yêu cầu Client lưu trữ Cookie.</li>
+</ul>
+<hr>
+<h2 id="2-cookie-bộ-nhớ-ngắn-hạn-của-web">2. Cookie: Bộ Nhớ Ngắn Hạn Của Web</h2>
+<p><strong>Cookie</strong>: là các mẩu dữ liệu nhỏ do Server gửi đến và được trình duyệt (Client) lưu trữ. Mục đích chính của Cookie là giúp Server nhận diện Client trong các yêu cầu kế tiếp, khắc phục tính phi trạng thái (stateless) của HTTP.</p>
+<h3 id="cơ-chế-hoạt-động-trong-giao-tiếp-client-server">Cơ chế hoạt động trong Giao tiếp Client-Server</h3>
+<ol>
+<li><strong>Server tạo Cookie</strong>: Lần đầu Client gửi Request, Server tạo ra Cookie (thường chứa Session ID) và gửi nó trong Response Header bằng trường Set-Cookie.</li>
+<li><strong>Client lưu trữ</strong>: Trình duyệt lưu trữ Cookie đó.</li>
+<li><strong>Client gửi lại Cookie</strong>: Trong tất cả các Request tiếp theo đến cùng <strong>Server</strong>, trình duyệt tự động đính kèm Cookie trong Request Header bằng trường <strong>Cookie</strong>.</li>
+<li><strong>Server nhận dạng</strong>: Server đọc *ession ID từ Cookie để nhận diện người dùng và trạng thái của họ (ví dụ: đã đăng nhập, giỏ hàng, tùy chọn cá nhân).</li>
+</ol>
+<h3 id="các-loại-cookie-phổ-biến">Các loại Cookie phổ biến</h3>
+<ul>
+<li><strong>Session Cookie</strong>: Được xóa khi trình duyệt đóng, dùng cho phiên làm việc hiện tại.</li>
+<li><strong>Persistent Cookie</strong>: Có ngày hết hạn (Expires) và được lưu trữ trên ổ đĩa <strong>Client</strong> cho đến khi hết hạn, dùng cho tính năng &ldquo;Ghi nhớ tôi&rdquo;.</li>
+<li><strong>Third-Party Cookie</strong>: Cookie do một miền khác với miền đang truy cập tạo ra, thường dùng cho quảng cáo và theo dõi người dùng.</li>
+</ul>
+<hr>
+<h2 id="3-mối-liên-hệ-giữa-header-và-cookie">3. Mối Liên Hệ Giữa Header và Cookie</h2>
+<p><strong>Cookie</strong>: không thể tồn tại độc lập. Nó luôn được tạo ra và truyền tải thông qua HTTP Header:</p>
+<ul>
+<li>
+<p><strong>Tạo Cookie</strong>: Sử dụng Response Header <code>Set-Cookie</code>.</p>
+</li>
+<li>
+<p><strong>Truyền Cookie</strong>: Sử dụng Request Header <code>Cookie</code>.</p>
+<p>Tóm lại, <strong>Header</strong>: cung cấp quy tắc và siêu dữ liệu cho toàn bộ giao tiếp <strong>HTTP</strong>, trong khi <strong>Cookie</strong>: là một dạng dữ liệu cụ thể, được <strong>Header</strong> quản lý, nhằm mục đích duy trì <strong>trạng thái</strong> và <strong>nhận dạng</strong> người dùng giữa các yêu cầu. Việc nắm vững hai thành phần này là chìa khóa để xây dựng các ứng dụng Web hiệu quả và an toàn.</p>
+</li>
+</ul>
 <ul class="pa0">
   
    <li class="list di">
@@ -188,7 +254,10 @@
   </article>
 
     </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+
+    
+    
+      <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="//localhost:1313/" >
     &copy;  Blog Lập Trình Mạng của Trần Trung Dũng 2025 
@@ -198,5 +267,6 @@
   </div>
 </footer>
 
+    
   </body>
 </html>

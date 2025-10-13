@@ -51,11 +51,11 @@
       <description>Giải thích cơ chế GET, POST, các header và status code trong HTTP.</description>
     </item>
     <item>
-      <title>Các công cụ kiểm tra mạng và debug</title>
+      <title>Các công cụ kiểm tra mạng và Debug: Ping, Traceroute, Wireshark, Postman</title>
       <link>//localhost:1313/posts/cong-cu-kiem-tra-mang/</link>
       <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
       <guid>//localhost:1313/posts/cong-cu-kiem-tra-mang/</guid>
-      <description>Giới thiệu các công cụ như Ping, Traceroute, Wireshark, Postman để kiểm tra và debug mạng.</description>
+      <description>Giới thiệu và phân tích vai trò của bốn công cụ thiết yếu: Ping, Traceroute, Wireshark, và Postman, giúp chuyên gia kiểm tra và gỡ lỗi mạng một cách chuyên nghiệp.</description>
     </item>
     <item>
       <title>Các bước thiết lập Server &amp; Client cơ bản</title>
