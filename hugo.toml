@@ -1,0 +1,32 @@
+baseURL = "/"
+languageCode = "vi"
+title = "Blog Lập Trình Mạng của Trần Trung Dũng"
+theme = "ananke"
+enableRobotsTXT = true
+
+[params]
+  author = "Trần Trung Dũng"
+  description = "Chia sẻ kiến thức về Lập trình Mạng, Java & JavaScript."
+  customCSS = ["css/custom.css"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[services]
+  [services.pagination]
+    pagerSize = 10
+
+[menu]
+  [[menu.main]]
+    name = "Trang Chủ"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "Profile Cá Nhân"
+    url = "/contentabout/"
+    weight = 30

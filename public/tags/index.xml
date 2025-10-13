@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blog Lập Trình Mạng của Trần Trung Dũng</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Blog Lập Trình Mạng của Trần Trung Dũng</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate>Sat, 11 Oct 2025 16:20:00 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Async</title>
+      <link>//localhost:1313/tags/async/</link>
+      <pubDate>Sat, 11 Oct 2025 16:20:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/async/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>//localhost:1313/tags/javascript/</link>
+      <pubDate>Sat, 11 Oct 2025 16:20:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>//localhost:1313/tags/node.js/</link>
+      <pubDate>Sat, 11 Oct 2025 16:20:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cookie</title>
+      <link>//localhost:1313/tags/cookie/</link>
+      <pubDate>Sat, 11 Oct 2025 16:10:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/cookie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Header</title>
+      <link>//localhost:1313/tags/header/</link>
+      <pubDate>Sat, 11 Oct 2025 16:10:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/header/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTTP</title>
+      <link>//localhost:1313/tags/http/</link>
+      <pubDate>Sat, 11 Oct 2025 16:10:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/http/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>//localhost:1313/tags/networking/</link>
+      <pubDate>Sat, 11 Oct 2025 16:00:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebSocket</title>
+      <link>//localhost:1313/tags/websocket/</link>
+      <pubDate>Sat, 11 Oct 2025 16:00:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/websocket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>//localhost:1313/tags/programming/</link>
+      <pubDate>Sat, 11 Oct 2025 15:50:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JSON</title>
+      <link>//localhost:1313/tags/json/</link>
+      <pubDate>Sat, 11 Oct 2025 15:40:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REST API</title>
+      <link>//localhost:1313/tags/rest-api/</link>
+      <pubDate>Sat, 11 Oct 2025 15:40:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/rest-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>//localhost:1313/tags/web/</link>
+      <pubDate>Sat, 11 Oct 2025 15:40:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API</title>
+      <link>//localhost:1313/tags/api/</link>
+      <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debug</title>
+      <link>//localhost:1313/tags/debug/</link>
+      <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/debug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>//localhost:1313/tags/tools/</link>
+      <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>//localhost:1313/tags/java/</link>
+      <pubDate>Sat, 11 Oct 2025 15:10:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server</title>
+      <link>//localhost:1313/tags/server/</link>
+      <pubDate>Sat, 11 Oct 2025 15:10:00 +0700</pubDate>
+      <guid>//localhost:1313/tags/server/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
