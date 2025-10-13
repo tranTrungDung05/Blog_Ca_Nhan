@@ -4,7 +4,8 @@ body {
 }
 
 .custom-nav-bg {
-    background-image: url('/images/background3.jpg');
+    /* Đã sửa đường dẫn: Dùng '../images/...' thay vì '/images/...' */
+    background-image: url('../images/background3.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -12,7 +13,8 @@ body {
     padding: 1rem 2rem; /* padding bên trong menu */
 }
 .header-bg {
-    background-image: url('/images/background3.jpg'); /* ảnh bạn muốn */
+    /* Đã sửa đường dẫn */
+    background-image: url('../images/background3.jpg'); /* ảnh bạn muốn */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -29,7 +31,8 @@ body {
 }
 
 .cover.bg-top {
-    background-image: url('/images/background2.jpg');
+    /* Đã sửa đường dẫn */
+    background-image: url('../images/background2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,6 +41,6 @@ body {
     color: white;
 }
 header .hero-title {
-  color: #FFD700 !important;    /* hoặc màu bạn muốn */
+  color: #FFD700 !important;     /* hoặc màu bạn muốn */
   text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
 }
