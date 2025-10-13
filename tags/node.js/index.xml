@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Node.js on Blog Lập Trình Mạng của Trần Trung Dũng</title>
-    <link>/tags/node.js/</link>
+    <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/node.js/</link>
     <description>Recent content in Node.js on Blog Lập Trình Mạng của Trần Trung Dũng</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Sat, 11 Oct 2025 16:20:00 +0700</lastBuildDate>
-    <atom:link href="/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Loop &amp; Async trong Node.js</title>
-      <link>/posts/nodejs-event-loop/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/nodejs-event-loop/</link>
       <pubDate>Sat, 11 Oct 2025 16:20:00 +0700</pubDate>
-      <guid>/posts/nodejs-event-loop/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/nodejs-event-loop/</guid>
       <description>Giải thích cơ chế Event Loop trong Node.js, luồng bất đồng bộ và non-blocking I/O.</description>
     </item>
   </channel>

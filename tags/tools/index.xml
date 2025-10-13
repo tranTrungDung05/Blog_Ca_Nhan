@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Blog Lập Trình Mạng của Trần Trung Dũng</title>
-    <link>/tags/tools/</link>
+    <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/tools/</link>
     <description>Recent content in Tools on Blog Lập Trình Mạng của Trần Trung Dũng</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Sat, 11 Oct 2025 15:20:00 +0700</lastBuildDate>
-    <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Các công cụ kiểm tra mạng và Debug: Ping, Traceroute, Wireshark, Postman</title>
-      <link>/posts/cong-cu-kiem-tra-mang/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/cong-cu-kiem-tra-mang/</link>
       <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
-      <guid>/posts/cong-cu-kiem-tra-mang/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/cong-cu-kiem-tra-mang/</guid>
       <description>Giới thiệu và phân tích vai trò của bốn công cụ thiết yếu: Ping, Traceroute, Wireshark, và Postman, giúp chuyên gia kiểm tra và gỡ lỗi mạng một cách chuyên nghiệp.</description>
     </item>
   </channel>

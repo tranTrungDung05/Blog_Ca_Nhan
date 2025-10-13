@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Header on Blog Lập Trình Mạng của Trần Trung Dũng</title>
-    <link>/tags/header/</link>
+    <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/header/</link>
     <description>Recent content in Header on Blog Lập Trình Mạng của Trần Trung Dũng</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Sat, 11 Oct 2025 16:10:00 +0700</lastBuildDate>
-    <atom:link href="/tags/header/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/header/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Header &amp; Cookie trong HTTP</title>
-      <link>/posts/http-header-cookie/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/http-header-cookie/</link>
       <pubDate>Sat, 11 Oct 2025 16:10:00 +0700</pubDate>
-      <guid>/posts/http-header-cookie/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/http-header-cookie/</guid>
       <description>Giải thích chức năng của header và cookie, cách sử dụng trong giao tiếp Client-Server.</description>
     </item>
   </channel>

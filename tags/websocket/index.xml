@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WebSocket on Blog Lập Trình Mạng của Trần Trung Dũng</title>
-    <link>/tags/websocket/</link>
+    <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/websocket/</link>
     <description>Recent content in WebSocket on Blog Lập Trình Mạng của Trần Trung Dũng</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Sat, 11 Oct 2025 16:00:00 +0700</lastBuildDate>
-    <atom:link href="/tags/websocket/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tranTrungDung05.github.io/Blog_Ca_Nhan/tags/websocket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WebSocket vs HTTP</title>
-      <link>/posts/websocket-vs-http/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/websocket-vs-http/</link>
       <pubDate>Sat, 11 Oct 2025 16:00:00 +0700</pubDate>
-      <guid>/posts/websocket-vs-http/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/websocket-vs-http/</guid>
       <description>So sánh WebSocket và HTTP, ưu điểm, nhược điểm và khi nào nên dùng.</description>
     </item>
   </channel>

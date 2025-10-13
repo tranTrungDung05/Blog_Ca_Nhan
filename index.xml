@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Lập Trình Mạng on Blog Lập Trình Mạng của Trần Trung Dũng</title>
-    <link>/</link>
+    <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/</link>
     <description>Recent content in Blog Lập Trình Mạng on Blog Lập Trình Mạng của Trần Trung Dũng</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Sat, 11 Oct 2025 16:20:00 +0700</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tranTrungDung05.github.io/Blog_Ca_Nhan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Loop &amp; Async trong Node.js</title>
-      <link>/posts/nodejs-event-loop/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/nodejs-event-loop/</link>
       <pubDate>Sat, 11 Oct 2025 16:20:00 +0700</pubDate>
-      <guid>/posts/nodejs-event-loop/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/nodejs-event-loop/</guid>
       <description>Giải thích cơ chế Event Loop trong Node.js, luồng bất đồng bộ và non-blocking I/O.</description>
     </item>
     <item>
       <title>Header &amp; Cookie trong HTTP</title>
-      <link>/posts/http-header-cookie/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/http-header-cookie/</link>
       <pubDate>Sat, 11 Oct 2025 16:10:00 +0700</pubDate>
-      <guid>/posts/http-header-cookie/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/http-header-cookie/</guid>
       <description>Giải thích chức năng của header và cookie, cách sử dụng trong giao tiếp Client-Server.</description>
     </item>
     <item>
       <title>WebSocket vs HTTP</title>
-      <link>/posts/websocket-vs-http/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/websocket-vs-http/</link>
       <pubDate>Sat, 11 Oct 2025 16:00:00 +0700</pubDate>
-      <guid>/posts/websocket-vs-http/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/websocket-vs-http/</guid>
       <description>So sánh WebSocket và HTTP, ưu điểm, nhược điểm và khi nào nên dùng.</description>
     </item>
     <item>
       <title>Async/Await &amp; Promise trong JavaScript</title>
-      <link>/posts/js-async-await/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/js-async-await/</link>
       <pubDate>Sat, 11 Oct 2025 15:50:00 +0700</pubDate>
-      <guid>/posts/js-async-await/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/js-async-await/</guid>
       <description>Hướng dẫn cơ bản về async/await, Promise và luồng bất đồng bộ trong JS.</description>
     </item>
     <item>
       <title>Thế nào là REST API &amp; JSON</title>
-      <link>/posts/rest-api-json/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/rest-api-json/</link>
       <pubDate>Sat, 11 Oct 2025 15:40:00 +0700</pubDate>
-      <guid>/posts/rest-api-json/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/rest-api-json/</guid>
       <description>Giải thích REST API, JSON và cách fetch dữ liệu từ server.</description>
     </item>
     <item>
       <title>Cơ chế HTTP Request &amp; Response</title>
-      <link>/posts/http-request-response/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/http-request-response/</link>
       <pubDate>Sat, 11 Oct 2025 15:30:00 +0700</pubDate>
-      <guid>/posts/http-request-response/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/http-request-response/</guid>
       <description>Giải thích cơ chế GET, POST, các header và status code trong HTTP.</description>
     </item>
     <item>
       <title>Các công cụ kiểm tra mạng và Debug: Ping, Traceroute, Wireshark, Postman</title>
-      <link>/posts/cong-cu-kiem-tra-mang/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/cong-cu-kiem-tra-mang/</link>
       <pubDate>Sat, 11 Oct 2025 15:20:00 +0700</pubDate>
-      <guid>/posts/cong-cu-kiem-tra-mang/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/cong-cu-kiem-tra-mang/</guid>
       <description>Giới thiệu và phân tích vai trò của bốn công cụ thiết yếu: Ping, Traceroute, Wireshark, và Postman, giúp chuyên gia kiểm tra và gỡ lỗi mạng một cách chuyên nghiệp.</description>
     </item>
     <item>
       <title>Các bước thiết lập Server &amp; Client cơ bản</title>
-      <link>/posts/server-client-co-ban/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/server-client-co-ban/</link>
       <pubDate>Sat, 11 Oct 2025 15:10:00 +0700</pubDate>
-      <guid>/posts/server-client-co-ban/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/server-client-co-ban/</guid>
       <description>Hướng dẫn thiết lập server và client đơn giản, giao tiếp cơ bản trong mạng.</description>
     </item>
     <item>
       <title>Các loại giao thức mạng phổ biến</title>
-      <link>/posts/giao-thuc-mang/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/giao-thuc-mang/</link>
       <pubDate>Sat, 11 Oct 2025 15:00:00 +0700</pubDate>
-      <guid>/posts/giao-thuc-mang/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/giao-thuc-mang/</guid>
       <description>Tìm hiểu các giao thức mạng phổ biến như HTTP, HTTPS, FTP, TCP/IP và UDP.</description>
     </item>
     <item>
       <title>Profile Cá Nhân</title>
-      <link>/contentabout/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/contentabout/</link>
       <pubDate>Sat, 11 Oct 2025 14:30:00 +0700</pubDate>
-      <guid>/contentabout/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/images/personal2.jpg&#34; alt=&#34;personal&#34;&gt;&#xA;Mình là Trần Trung Dũng, hiện đang học và nghiên cứu Lập trình Mạng, Java &amp;amp; JavaScript.&lt;br&gt;&#xA;Blog này chia sẻ kiến thức, ví dụ thực hành, và hướng dẫn lập trình mạng từ cơ bản đến nâng cao.&lt;/p&gt;&#xA;&lt;p&gt;Mình đã hoàn thành các khoá học và nhận được chứng chỉ từ NetaCad dưới sự hỗ trợ của giảng viên&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/%7B3EBF1334-B6B5-4E4A-8871-99CA552BBA9C%7D.png&#34; alt=&#34;ChungChi1&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/contentabout/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://tranTrungDung05.github.io/Blog_Ca_Nhan/images/personal2.jpg&#34; alt=&#34;personal&#34;&gt;&#xA;Mình là Trần Trung Dũng, hiện đang học và nghiên cứu Lập trình Mạng, Java &amp;amp; JavaScript.&lt;br&gt;&#xA;Blog này chia sẻ kiến thức, ví dụ thực hành, và hướng dẫn lập trình mạng từ cơ bản đến nâng cao.&lt;/p&gt;&#xA;&lt;p&gt;Mình đã hoàn thành các khoá học và nhận được chứng chỉ từ NetaCad dưới sự hỗ trợ của giảng viên&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tranTrungDung05.github.io/Blog_Ca_Nhan/images/%7B3EBF1334-B6B5-4E4A-8871-99CA552BBA9C%7D.png&#34; alt=&#34;ChungChi1&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript &amp; Mạng on Blog Lập Trình Mạng của Trần Trung Dũng</title>
-    <link>/categories/javascript--m%E1%BA%A1ng/</link>
+    <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/categories/javascript--m%E1%BA%A1ng/</link>
     <description>Recent content in JavaScript &amp; Mạng on Blog Lập Trình Mạng của Trần Trung Dũng</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Sat, 11 Oct 2025 16:20:00 +0700</lastBuildDate>
-    <atom:link href="/categories/javascript--m%E1%BA%A1ng/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tranTrungDung05.github.io/Blog_Ca_Nhan/categories/javascript--m%E1%BA%A1ng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Loop &amp; Async trong Node.js</title>
-      <link>/posts/nodejs-event-loop/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/nodejs-event-loop/</link>
       <pubDate>Sat, 11 Oct 2025 16:20:00 +0700</pubDate>
-      <guid>/posts/nodejs-event-loop/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/nodejs-event-loop/</guid>
       <description>Giải thích cơ chế Event Loop trong Node.js, luồng bất đồng bộ và non-blocking I/O.</description>
     </item>
     <item>
       <title>Async/Await &amp; Promise trong JavaScript</title>
-      <link>/posts/js-async-await/</link>
+      <link>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/js-async-await/</link>
       <pubDate>Sat, 11 Oct 2025 15:50:00 +0700</pubDate>
-      <guid>/posts/js-async-await/</guid>
+      <guid>https://tranTrungDung05.github.io/Blog_Ca_Nhan/posts/js-async-await/</guid>
       <description>Hướng dẫn cơ bản về async/await, Promise và luồng bất đồng bộ trong JS.</description>
     </item>
   </channel>
