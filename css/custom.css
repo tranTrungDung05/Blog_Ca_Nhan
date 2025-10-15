@@ -8,7 +8,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 80px;
+    min-height: 200px;
     padding: 1rem 2rem;
 }
 .header-bg {
@@ -34,7 +34,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 250px;
+    min-height: 200px;
     padding: 4rem 1rem;
     color: white;
 }
